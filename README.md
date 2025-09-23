@@ -1,1 +1,1 @@
-A system that recommends books based on users’ reading preferences & reviews.
+A hybrid book recommendation system combining collaborative filtering and content-based similarity. Provides fast API responses (<100ms) and modular, reusable pipelines for data processing and model evaluation.

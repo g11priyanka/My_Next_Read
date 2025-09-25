@@ -1,1 +1,1 @@
-A hybrid book recommendation system combining collaborative filtering and content-based similarity. Provides fast API responses (<100ms) and modular, reusable pipelines for data processing and model evaluations.
+A hybrid book recommendation system combining collaborative filtering and content-based similarity. Provides fast API responses (<100ms) and modular, reusable pipelines for data processing and model evaluation.
